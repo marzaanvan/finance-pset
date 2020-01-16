@@ -1,0 +1,9 @@
+<div>
+  <table>
+    <tr>
+      <td>$symbol</td>
+      <td>$name</td>
+      <td>$price</td>
+    </tr>
+  </table>
+</div>
